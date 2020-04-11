@@ -1,0 +1,7 @@
+C:\Users\Anhli\source\repos\PhamVanLinh095\PhamVanLinh095\bin\Debug\PhamVanLinh095.exe.config
+C:\Users\Anhli\source\repos\PhamVanLinh095\PhamVanLinh095\bin\Debug\PhamVanLinh095.exe
+C:\Users\Anhli\source\repos\PhamVanLinh095\PhamVanLinh095\bin\Debug\PhamVanLinh095.pdb
+C:\Users\Anhli\source\repos\PhamVanLinh095\PhamVanLinh095\obj\Debug\PhamVanLinh095.csprojAssemblyReference.cache
+C:\Users\Anhli\source\repos\PhamVanLinh095\PhamVanLinh095\obj\Debug\PhamVanLinh095.csproj.CoreCompileInputs.cache
+C:\Users\Anhli\source\repos\PhamVanLinh095\PhamVanLinh095\obj\Debug\PhamVanLinh095.exe
+C:\Users\Anhli\source\repos\PhamVanLinh095\PhamVanLinh095\obj\Debug\PhamVanLinh095.pdb
